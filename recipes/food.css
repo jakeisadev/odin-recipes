@@ -1,0 +1,35 @@
+body {
+  font-family: "Lucida Handwriting";
+  background: rgb(34, 193, 195);
+  background: linear-gradient(
+    0deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(253, 187, 45, 1) 100%
+  );
+}
+
+img {
+  border: 2px solid rgba(253, 187, 45, 1);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div {
+  border: 2px solid #c32422;
+  background-color: #a1c322;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1,
+h3,
+p {
+  text-align: center;
+}
+
+div {
+  display: block;
+  text-align: center;
+}
